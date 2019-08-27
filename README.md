@@ -1,5 +1,5 @@
 # Kalah-Game
-Full Implementation of the game Kalah, including option for an AI computer player
+Full Implementation of the game Kalah, including option for an AI computer player. Designed to be built and run in Visual Studio, display uses the visual studio console to show the game being played.
 
 Object Oriented Programming approach to designing a Kalah game, with a board object, a game object, and a player object which interact with one another to keep track of score, number of beans in each hole, etc. 
 
